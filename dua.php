@@ -131,6 +131,7 @@ if (isset($_POST["submit"])) {
                                     <?= $wKananAtas; ?>
                                     <h4>Menghadap kanan bawah</h4>
                                     <?= $wKananBawah; ?>
+                                </div>
                             </div>
                         </div>
                     </div>
