@@ -90,7 +90,7 @@ if (isset($_POST['submit'])) {
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-primary active p-3" href="satu.php">Nomor Satu</a>
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="dua.php">Nomor Dua</a>
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="tiga.php">Nomor Dua</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="tiga.php">Nomor Tiga</a>
                 </div>
             </div>
             <!-- Page content wrapper-->
